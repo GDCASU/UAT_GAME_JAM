@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 33add2c3acc9a9c4e85eca0ebd1b8189
+timeCreated: 1429482479
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myTextGB: {instanceID: 0}
+  - rankTextGB: {instanceID: 0}
+  - rank8noise: {instanceID: 0}
+  - soundCenter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
